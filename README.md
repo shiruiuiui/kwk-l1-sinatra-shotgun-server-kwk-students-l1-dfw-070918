@@ -1,4 +1,5 @@
-# Using the Shotgun Development Ser
+# Using the Shotgun Development Server
+
 ## Overview
 
 This lesson will introduce you to Shotgun and how to use it with Sinatra apps.
